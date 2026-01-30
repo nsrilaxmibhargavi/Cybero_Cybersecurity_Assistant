@@ -18,6 +18,25 @@ Unlike most chatbots, Cybero does not rely on paid APIs or internet access. All 
 
 ---
 
+## 🎨 User Interface (UI)
+
+Cybero features a modern and clean desktop interface designed for ease of use and readability. The UI is built using **ttkbootstrap**, providing a dark-themed layout that feels professional and comfortable for long usage sessions.
+
+The interface includes:
+- A large chat window for conversation history
+- A fixed input bar with send button
+- Keyboard support (Enter key to send)
+- Clear separation between user and bot messages
+- Responsive layout that adapts to window size
+
+The UI design ensures that users can focus on learning cybersecurity concepts without distractions.
+
+
+<img width="2560" height="1344" alt="Screenshot 2026-01-29 144658" src="https://github.com/user-attachments/assets/436f1ed8-c7de-495e-81f7-970160e9fa14" />
+
+---
+
+
 ## ✨ Key Features
 
 - Desktop GUI chatbot (Python + ttkbootstrap)
@@ -116,5 +135,10 @@ The Cybero window will open as a desktop application.
 Cybero is a practical cybersecurity assistant that demonstrates how conversational systems can be built using Python, GUI design, and simple NLP techniques. It combines usability, learning, and clean architecture into a single desktop application.
 
 This project shows that powerful learning tools can be created without relying on expensive or external AI services.
+
+<p align ="center">
+  <img src="https://github.com/user-attachments/assets/7270d582-add6-439c-9144-753486900bf0">
+</p>
+
 
 ---
