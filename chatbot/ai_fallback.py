@@ -5,7 +5,7 @@ import os
 # Windows (PowerShell):
 # setx OPENAI_API_KEY "your_key_here"
 
-openai.api_key = os.getenv("Youe key here")
+openai.api_key = os.getenv("Your key here")
 
 SYSTEM_PROMPT = (
     "You are a helpful cybersecurity assistant. "
@@ -37,3 +37,4 @@ def ai_reply(user_input, context=None):
     return response.choices[0].message.content.strip()
 
 print("AI fallback called")
+
