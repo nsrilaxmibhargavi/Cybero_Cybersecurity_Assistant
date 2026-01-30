@@ -49,19 +49,19 @@ The Cybero window will open as a desktop application.
 
 ### You can ask Cybero:
 
-What is cybersecurity?
+ - What is cybersecurity?
 
-What is SOC?
+ - What is SOC?
 
-What is malware?
+ - What is malware?
 
-Explain phishing
+ - Explain phishing
 
-Tell me more
+ - Tell me more
 
-How do attacks happen?
+ - How do attacks happen?
 
-What does a SOC analyst do?
+ - What does a SOC analyst do?
 
 ---
 
@@ -69,29 +69,29 @@ What does a SOC analyst do?
 
 ### Cybero uses:
 
-Keyword-based intent detection
+ - Keyword-based intent detection
 
-Predefined cybersecurity responses
+ - Predefined cybersecurity responses
 
-Context memory for multi-turn conversations
+ - Context memory for multi-turn conversations
 
-Local knowledge base for unknown topics
+ - Local knowledge base for unknown topics
 
-This design keeps the chatbot fast, free, and easy to maintain.
+ - This design keeps the chatbot fast, free, and easy to maintain.
 
 ---
 
 ## 🎯 Use Cases
 
-Cybersecurity learning and practice
+ - Cybersecurity learning and practice
 
-Academic projects and demos
+ - Academic projects and demos
 
-Portfolio showcase
+ - Portfolio showcase
 
-Beginner-friendly security assistant
+ - Beginner-friendly security assistant
 
-Offline training environments
+ - Offline training environments
 
 ---
 
@@ -99,15 +99,15 @@ Offline training environments
 
 ### Most chatbots depend on online AI services. Cybero works fully offline, which makes it:
 
-Reliable for demos
+ - Reliable for demos
 
-Free to use
+ - Free to use
 
-Safe for academic submission
+ - Safe for academic submission
 
-Easy to extend
+ - Easy to extend
 
-Predictable in behavior
+ - Predictable in behavior
 
 ---
 
