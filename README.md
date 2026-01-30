@@ -1,5 +1,5 @@
-# Cybero 🔐  
-**Cybero – Your Cybersecurity Assistant**
+ 
+# **Cybero – Your Cybersecurity Assistant**
 
 Cybero is a desktop-based cybersecurity chatbot built with Python to help users learn and understand core security concepts through interactive conversation. It provides clear, structured answers to common cybersecurity questions and works completely offline.
 
