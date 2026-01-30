@@ -1,0 +1,165 @@
+PYTHON_CHATBOT/
+└── logs/
+    └── chats.log
+[2026-01-12 13:22:04] USER: hi
+[2026-01-12 13:22:04] BOT: Hi there! What can I do for you?
+[2026-01-12 13:22:10] USER: can you help me 
+[2026-01-12 13:22:10] BOT: Try greeting me or asking a simple question.
+[2026-01-12 13:22:13] USER: bye
+[2026-01-12 13:22:13] BOT: Goodbye! Have a great day.
+[2026-01-12 13:25:17] USER: hi
+[2026-01-12 13:25:17] BOT: Hello! How can I help you today?
+[2026-01-12 13:25:21] USER: what is soc
+[2026-01-12 13:25:21] BOT: A Security Operations Center (SOC) monitors, detects, and responds to cybersecurity incidents.
+[2026-01-12 13:28:26] USER: hi
+[2026-01-12 13:28:26] BOT: Hey! Ask me anything.
+[2026-01-12 13:28:57] USER: hi
+[2026-01-12 13:28:57] BOT: Hello! How can I help you today?
+[2026-01-12 13:29:24] USER: whats soc
+[2026-01-12 13:29:24] BOT: Sorry, I didn't understand that.
+[2026-01-12 13:29:28] USER: what is soc
+[2026-01-12 13:29:28] BOT: A Security Operations Center (SOC) monitors, detects, and responds to cybersecurity incidents.
+[2026-01-13 14:02:16] USER: hi
+[2026-01-13 14:02:16] BOT: Hi there! What can I do for you?
+[2026-01-13 14:02:22] USER: what is soc
+[2026-01-13 14:02:22] BOT: A Security Operations Center (SOC) monitors, detects, and responds to cybersecurity incidents.
+[2026-01-13 14:02:25] USER: okay
+[2026-01-13 14:02:25] BOT: Can you rephrase that?
+[2026-01-13 14:02:28] USER: ok
+[2026-01-13 14:02:28] BOT: I'm still learning. Try something else.
+[2026-01-13 14:02:36] USER: e
+[2026-01-13 14:02:36] BOT: I'm still learning. Try something else.
+[2026-01-13 14:06:02] USER: hi
+[2026-01-13 14:06:02] BOT: Hello! How can I help you today?
+[2026-01-13 14:06:04] USER: soc
+[2026-01-13 14:06:04] BOT: I'm still learning. Try something else.
+[2026-01-13 14:08:54] USER: hi
+[2026-01-13 14:08:54] BOT: Hello! How can I help you today?
+[2026-01-13 14:08:56] USER: soc
+[2026-01-13 14:08:56] BOT: Can you rephrase that?
+[2026-01-13 14:09:02] USER: malware
+[2026-01-13 14:09:02] BOT: Sorry, I didn't understand that.
+[2026-01-13 14:09:18] USER: malware
+[2026-01-13 14:09:18] BOT: Sorry, I didn't understand that.
+[2026-01-13 14:18:14] USER: hello
+[2026-01-13 14:18:14] BOT: Hello! How can I help you today?
+[2026-01-13 14:18:16] USER: soc
+[2026-01-13 14:18:16] BOT: A Security Operations Center (SOC) is a centralized team responsible for monitoring and responding to security incidents.
+
+Key SOC activities include:
+• Continuous monitoring
+• Threat detection
+• Incident response
+• Log analysis
+[2026-01-13 14:18:19] USER: malwrae
+[2026-01-13 14:18:19] BOT: I’m still learning. Ask me in a different way.
+[2026-01-13 14:18:22] USER: malware
+[2026-01-13 14:18:22] BOT: Malware is software designed to harm systems or steal data.
+
+Common types include:
+• Viruses
+• Worms
+• Trojans
+• Ransomware
+[2026-01-13 14:18:37] USER: ok bye
+[2026-01-13 14:18:37] BOT: Take care and keep learning.
+[2026-01-13 14:21:22] USER: hi
+[2026-01-13 14:21:22] BOT: Hey! 👋 How can I help you today?
+[2026-01-13 14:21:26] USER: soc
+[2026-01-13 14:21:26] BOT: A Security Operations Center (SOC) is a team that continuously monitors security events and responds to incidents.
+
+SOC teams handle:
+• Threat detection
+• Incident response
+• Log analysis
+• Alert triage
+[2026-01-13 14:21:31] USER: ok bye
+[2026-01-13 14:21:31] BOT: Goodbye! Stay safe online 🔐
+[2026-01-13 14:21:34] USER: thenkyou
+[2026-01-13 14:21:34] BOT: I’m still learning. Can you ask in a different way?
+[2026-01-13 14:23:35] USER: hi
+[2026-01-13 14:23:35] BOT: Hey! 👋 How can I help you today?
+[2026-01-13 14:23:39] USER: malware
+[2026-01-13 14:23:39] BOT: Malware is malicious software designed to harm systems, steal data, or disrupt operations.
+
+Common types include:
+• Viruses
+• Worms
+• Trojans
+• Ransomware
+[2026-01-13 14:23:44] USER: tell memore
+[2026-01-13 14:23:44] BOT: That’s a bit outside my current knowledge. Try asking something else.
+[2026-01-13 14:23:53] USER: more
+[2026-01-13 14:23:53] BOT: I’m still learning. Can you ask in a different way?
+[2026-01-13 14:47:53] USER: hey
+[2026-01-13 14:47:53] BOT: Hello! Ask me anything related to cybersecurity.
+[2026-01-13 14:47:56] USER: soc
+[2026-01-13 14:47:56] BOT: SOC analysts are responsible for identifying threats early and reducing the impact of security incidents.
+[2026-01-13 14:47:58] USER: more
+[2026-01-13 14:47:58] BOT: A Security Operations Center (SOC) is a team that continuously monitors security events and responds to incidents.
+
+SOC teams handle:
+• Threat detection
+• Incident response
+• Log analysis
+• Alert triage
+[2026-01-13 21:24:03] USER: what is zero trust security
+[2026-01-13 21:24:03] BOT: That’s a bit outside my current knowledge. Try asking something else.
+[2026-01-13 21:27:03] USER: what is zero trust security
+[2026-01-13 21:27:03] BOT: That topic isn’t in my rule-based knowledge yet.
+[2026-01-13 21:28:03] USER: what is zero truist security
+[2026-01-13 21:28:03] BOT: I’m not sure about that, but I can try to explain if you ask differently.
+[2026-01-13 21:31:10] USER: what is zero trust security
+[2026-01-13 21:31:10] BOT: I’m not sure about that, but I can try to explain if you ask differently.
+[2026-01-26 18:31:14] USER: hey
+[2026-01-26 18:31:14] BOT: Hey! 👋 How can I help you today?
+[2026-01-26 18:31:19] USER: what is soc
+[2026-01-26 18:31:19] BOT: SOC analysts are responsible for identifying threats early and reducing the impact of security incidents.
+[2026-01-26 18:31:38] USER: malware
+[2026-01-26 18:31:38] BOT: Malware is malicious software designed to harm systems, steal data, or disrupt operations.
+
+Common types include:
+• Viruses
+• Worms
+• Trojans
+• Ransomware
+[2026-01-26 18:32:02] USER: virus
+[2026-01-26 18:32:02] BOT: Malware can spread through infected files, malicious links, or compromised websites.
+[2026-01-29 14:40:50] USER: hey
+[2026-01-29 14:40:50] CYBERO: Hey! I’m Cybero 👋 How can I help you today?
+[2026-01-29 14:40:55] USER: soc
+[2026-01-29 14:40:55] CYBERO: A Security Operations Center (SOC) is a team that continuously monitors security events and responds to incidents.
+
+SOC teams handle:
+• Threat detection
+• Incident response
+• Log analysis
+• Alert triage
+[2026-01-29 14:41:03] USER: threat
+[2026-01-29 14:41:03] CYBERO: I’m not sure about that, but I can try to explain if you ask differently.
+[2026-01-29 14:45:25] USER: hey
+[2026-01-29 14:45:25] CYBERO: Hi there! Ask Cybero anything about cybersecurity.
+[2026-01-29 14:45:34] USER: what is Soc
+[2026-01-29 14:45:34] CYBERO: SOC analysts are responsible for identifying threats early and reducing the impact of security incidents.
+[2026-01-29 14:45:40] USER: more
+[2026-01-29 14:45:40] CYBERO: SOC analysts are responsible for identifying threats early and reducing the impact of security incidents.
+[2026-01-29 14:46:27] USER: Hey
+[2026-01-29 14:46:27] CYBERO: Hello! Cybero here. What would you like to learn?
+[2026-01-29 14:46:33] USER: Soc
+[2026-01-29 14:46:33] CYBERO: A Security Operations Center (SOC) is a team that continuously monitors security events and responds to incidents.
+
+SOC teams handle:
+• Threat detection
+• Incident response
+• Log analysis
+• Alert triage
+[2026-01-29 14:46:43] USER: What is Malware?
+[2026-01-29 14:46:43] CYBERO: Malware is malicious software designed to harm systems, steal data, or disrupt operations.
+
+Common types include:
+• Viruses
+• Worms
+• Trojans
+• Ransomware
+[2026-01-30 17:42:03] USER: hi
+[2026-01-30 17:42:03] CYBERO: Hey! I’m Cybero 👋 How can I help you today?

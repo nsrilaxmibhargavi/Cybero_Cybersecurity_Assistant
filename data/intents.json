@@ -1,0 +1,73 @@
+{
+  "greeting": {
+    "patterns": ["hi", "hello", "hey", "good morning", "good evening"],
+    "responses": [
+      "Hello! How can I help you today?",
+      "Hi there! What can I do for you?",
+      "Hey! Ask me anything."
+    ]
+  },
+  "goodbye": {
+    "patterns": ["bye", "exit", "quit", "goodbye"],
+    "responses": [
+      "Goodbye! Have a great day.",
+      "See you later!",
+      "Take care!"
+    ]
+  },
+  "help": {
+    "patterns": ["help", "what can you do", "options"],
+    "responses": [
+      "I can answer basic questions and chat with you.",
+      "Try greeting me or asking a simple question."
+    ]
+  },
+  "fallback": {
+    "responses": [
+      "Sorry, I didn't understand that.",
+      "Can you rephrase that?",
+      "I'm still learning. Try something else."
+    ]
+  },
+"cybersecurity": {
+  "patterns": [
+    "what is cybersecurity",
+    "define cybersecurity",
+    "cyber security meaning"
+  ],
+  "responses": [
+    "Cybersecurity is the practice of protecting systems, networks, and data from digital attacks."
+  ]
+},
+"soc": {
+  "patterns": [
+    "what is soc",
+    "security operations center",
+    "soc analyst"
+  ],
+  "responses": [
+    "A Security Operations Center (SOC) monitors, detects, and responds to cybersecurity incidents."
+  ]
+},
+"malware": {
+  "patterns": [
+    "what is malware",
+    "types of malware",
+    "malicious software"
+  ],
+  "responses": [
+    "Malware is malicious software designed to damage, disrupt, or gain unauthorized access to systems."
+  ]
+},
+"phishing": {
+  "patterns": [
+    "what is phishing",
+    "phishing attack",
+    "email scam"
+  ],
+  "responses": [
+    "Phishing is a social engineering attack where attackers trick users into revealing sensitive information."
+  ]
+}
+
+}
